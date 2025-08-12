@@ -34,4 +34,4 @@ A Blender 4.5+ add-on that opens a dual silhouette viewport (Front + Right) with
 - Preferred dev path (local): `c:/Users/Florian Wespenwald/AppData/Roaming/Blender Foundation/Blender/4.5/scripts/addons/silhouette_view_addon/`
 
 ## License
-MIT
+Don't make by modifying and/or selling it, don't claim it's yours, all that stuff.
