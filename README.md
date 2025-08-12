@@ -17,7 +17,7 @@ A Blender 4.5+ add-on that opens a dual silhouette viewport (Front + Right) with
 ## Install
 1. Download the ZIP (no need to extract):
    - From the website: https://wespenwald.neocities.org/
-   - Or build your own ZIP from this repo
+   - Or from where you are... 
 2. In Blender: Edit > Preferences > Add-ons > Install...
 3. Choose the ZIP and enable the add-on
 
